@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Environment variables
+.env
+
+# AI Models (VERY IMPORTANT)
+*.pt
+
+# Dataset (IMPORTANT)
+dataset/
+
+# Frontend
+node_modules/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
